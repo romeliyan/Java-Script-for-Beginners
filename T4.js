@@ -1,0 +1,1 @@
+alert("Hello world from external script page !");
