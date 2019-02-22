@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6cdda14-dfd5-439f-a95f-bb6f792ba519" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/T3.html" beforeDir="false" afterPath="$PROJECT_DIR$/T3.html" afterDir="false" />
-    </list>
+    <list default="true" id="f6cdda14-dfd5-439f-a95f-bb6f792ba519" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/T3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="490">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/T6.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -47,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -61,6 +68,8 @@
         <option value="$PROJECT_DIR$/T4.js" />
         <option value="$PROJECT_DIR$/T3.html" />
         <option value="$PROJECT_DIR$/T4.html" />
+        <option value="$PROJECT_DIR$/T6.html" />
+        <option value="$PROJECT_DIR$/T6.js" />
       </list>
     </option>
   </component>
@@ -120,11 +129,12 @@
       <updated>1550815447810</updated>
       <workItem from="1550815449128" duration="448000" />
       <workItem from="1550816040403" duration="763000" />
+      <workItem from="1550816964244" duration="961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1211000" />
+    <option name="totallyTimeSpent" value="2172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="647" y="59" width="1219" height="885" extended-state="0" />
@@ -152,13 +162,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/T4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/T4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -166,10 +169,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/T4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/T3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
